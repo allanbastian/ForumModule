@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">forum</string>
+    <string name="quesHint">Enter your question here</string>
+    <string name="sendBtn">SEND</string>
+</resources>
