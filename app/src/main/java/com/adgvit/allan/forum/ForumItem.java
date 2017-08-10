@@ -1,7 +1,8 @@
 package com.adgvit.allan.forum;
 
 import android.support.v7.widget.CardView;
-import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.TextView;
 
 /**
  * Created by Allan on 08-08-2017.
@@ -9,5 +10,6 @@ import android.widget.Button;
 
 public class ForumItem {
     CardView cardView;
-    Button button;
+    String ques;
+    ImageButton button;
 }
