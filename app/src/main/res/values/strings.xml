@@ -2,4 +2,7 @@
     <string name="app_name">forum</string>
     <string name="quesHint">Enter your question here</string>
     <string name="sendBtn">SEND</string>
+    <string name="userQuestion">null</string>
+    <string name="upVote">UPVOTE</string>
+    <string name="userQues">null</string>
 </resources>
