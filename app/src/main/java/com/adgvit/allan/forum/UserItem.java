@@ -10,6 +10,6 @@ import android.widget.TextView;
  */
 
 public class UserItem {
-    private CardView cardView;
-    private TextView userQues;
+    CardView cardView;
+    String ques;
 }

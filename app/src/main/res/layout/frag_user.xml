@@ -18,12 +18,13 @@
         android:id="@+id/ques"
         android:hint="@string/quesHint"/>
 
-    <Button
+    <ImageButton
         android:id="@+id/send"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_toEndOf="@+id/ques"
+        android:layout_alignParentEnd="true"
+        android:background="@android:drawable/ic_menu_send"
         android:text="@string/sendBtn"/>
 
 </RelativeLayout>
